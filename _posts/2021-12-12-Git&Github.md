@@ -1,3 +1,10 @@
+---
+layout: post
+title: Git&Github 정리
+date: 2021-12-12 15:00:00 +0900
+categories: jekyll update
+---
+
 # Git이란?
 - 여러 사람이 한 번에 코드를 관리하기 용이하게 해주는 **분산 버전관리 시스템** 이다.
 
