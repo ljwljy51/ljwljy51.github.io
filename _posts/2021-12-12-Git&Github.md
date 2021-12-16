@@ -36,11 +36,11 @@ user$ `git commit -m "add example.py"`
 user$ `git log`
 
 - branch 생성하기  
-_git branch <branch 이름>을 통해 branch를 생성한다._   
+*`git branch <branch이름>`을 통해 branch를 생성한다.*  <br>
 user$ `git branch <branch_name>`
 
 - branch 전환하기  
-_현재 작업중인 branch를 전환해준다_  
+_현재 작업중인 branch를 전환해준다._  
 user$ `git checkout <branch_name>`
 
 - branch 병합하기  
@@ -48,8 +48,9 @@ _현재 작업중인 branch를 원하는 branch에 병합해준다_
 user$ `git merge <branch_name>`
 
 - branch 삭제  
-_git branch -d <branch 이름>을 통해 branch를 삭제한다_  
+_`git branch -d <branch이름>`을 통해 branch를 삭제한다._  <br>
 user$ `git branch -d <branch_name>`
+
 
 # Github  
 - 원격저장소 중 대표적이다.
