@@ -29,3 +29,6 @@ _config.yml_  파일에서 plainwhite:부분 밑에 disqus_shortname 부분을 �
 
 - favicon 추가  
 구글링을 해보니, plainwhite 테마는 favicon을 지원하지 않는다는 것을 알 수 있었다. 댓글기능의 경우, https://github.com/samarsault/plainwhite-jekyll 에서 구현 방법을 알아낼 수 있었지만, favicon에 대한 설명은 없었다. 따라서 구현하지 못했다.
+
+- 블로그 주소
+https://ljwljy51.github.io/
