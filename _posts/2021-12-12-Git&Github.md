@@ -3,6 +3,7 @@ layout: post
 title: Git&Github 정리
 date: 2021-12-12 15:00:00 +0900
 categories: jekyll update
+comments: true
 ---
 
 # Git이란?
